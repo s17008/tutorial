@@ -1,3 +1,7 @@
 git-tutorial
 変更しました。
+<<<<<<< HEAD
 tekitou
+=======
+tekitou2
+>>>>>>> 078ef6d7a13d26b185eb9909395caa85c52d369a
